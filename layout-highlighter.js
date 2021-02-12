@@ -19,7 +19,7 @@ css.innerHTML = styles;
 document.body.appendChild(css);
 
 
-let highlighterClassName = 'hl';
+let highlighterClassName = 'lh';
 
 document.addEventListener('DOMContentLoaded', () => {
     // Select the node that will be observed for mutations
